@@ -27,6 +27,6 @@
   },
   "scripts": {
     "build": "webpack --config webpack.config.prod.js --progress --profile --colors",
-    "deploy " :  " gh-pages -d public "
+    "deploy" : "gh-pages -d public"
   }
 }
